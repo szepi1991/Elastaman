@@ -1,3 +1,7 @@
+# Android generated files, binaries
+gen/
+bin/
+
 *.class
 
 # Mobile Tools for Java (J2ME)
